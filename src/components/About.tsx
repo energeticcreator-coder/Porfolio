@@ -42,8 +42,6 @@ const About = () => {
                   'UI/UX Design',
                   'Responsive Design',
                   'Performance Optimization',
-                  'Code Review',
-                  'Mentoring'
                 ].map((item) => (
                   <div key={item} className="flex items-center">
                     <div className="w-2 h-2 bg-blue-600 rounded-full mr-3"></div>

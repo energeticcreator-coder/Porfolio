@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
+# Front-End Developer Portfolio 🚀
 
-## Project info
+Welcome to my portfolio website! This project showcases my work, skills, and experience as a front-end web developer. It's designed to be responsive, performant, and visually appealing.
 
-**URL**: https://lovable.dev/projects/1590d7ca-27e9-4782-bf90-e39ea2e8fcdc
+## 🖥️ Live Demo
 
-## How can I edit this code?
+🔗 [View the Website](https://your-portfolio-link.com)
 
-There are several ways of editing your application.
+## 📌 Features
 
-**Use Lovable**
+- Responsive and modern design
+- Interactive project gallery
+- Contact form with email integration
+- Dark/light mode toggle
+- Smooth scroll and animations
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1590d7ca-27e9-4782-bf90-e39ea2e8fcdc) and start prompting.
+## 🛠️ Built With
 
-Changes made via Lovable will be committed automatically to this repo.
+- **HTML5**
+- **CSS3 / SCSS**
+- **JavaScript (ES6+)**
+- **React.js** (or any other framework you used)
+- **Tailwind CSS** (or Bootstrap / custom CSS)
+- **Framer Motion** / **GSAP** (for animations, if used)
+- **EmailJS** (for contact form, if used)
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ⚙️ Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repository:
 
-Follow these steps:
+```bash
+git clone https://github.com/energeticcreator/portfolio.git
+cd portfolio
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+npm run build
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🚀 Deployment
+This site is deployed using:
 
-**Use GitHub Codespaces**
+Vercel
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+or Netlify
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1590d7ca-27e9-4782-bf90-e39ea2e8fcdc) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+or GitHub Pages

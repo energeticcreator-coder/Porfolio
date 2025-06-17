@@ -41,15 +41,15 @@ const Contact = () => {
             <div className="space-y-4">
               <div>
                 <h4 className="font-semibold text-gray-900">Email</h4>
-                <p className="text-gray-600">your.email@example.com</p>
+                <p className="text-gray-600">mahasoelectronics@gmail.com</p>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">Phone</h4>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+263786935524</p>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900">Location</h4>
-                <p className="text-gray-600">Your City, Country</p>
+                <p className="text-gray-600">Harare, Zimbabwe </p>
               </div>
             </div>
             
@@ -57,9 +57,9 @@ const Contact = () => {
               <h4 className="font-semibold text-gray-900 mb-4">Follow Me</h4>
               <div className="flex space-x-4">
                 {[
-                  { name: 'GitHub', url: 'https://github.com/yourusername' },
-                  { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername' },
-                  { name: 'Twitter', url: 'https://twitter.com/yourusername' }
+                  { name: 'GitHub', url: 'https://github.com/energticcreators-coder' },
+                  { name: 'LinkedIn', url: 'https://linkedin.com/in/Eugene Mahaso' },
+                  { name: 'Twitter', url: 'https://twitter.com/uncleeugerz' }
                 ].map((social) => (
                   <a
                     key={social.name}

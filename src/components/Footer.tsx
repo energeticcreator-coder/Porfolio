@@ -35,9 +35,9 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Connect</h4>
             <div className="space-y-2">
               {[
-                { name: 'GitHub', url: 'https://github.com/yourusername' },
-                { name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername' },
-                { name: 'Email', url: 'mailto:your.email@example.com' }
+                { name: 'GitHub', url: 'https://github.com/energeticcreator-coder' },
+                { name: 'LinkedIn', url: 'https://linkedin.com/in/Eugene Mahaso' },
+                { name: 'Email', url: 'mailto:mahasoelectronics@gmail.com' }
               ].map((link) => (
                 <a
                   key={link.name}
@@ -55,7 +55,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} Energtic Creator. All rights reserved.
           </p>
         </div>
       </div>
