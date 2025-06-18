@@ -24,8 +24,8 @@ const Projects = () => {
       description: 'A responsive portfolio website showcasing modern web development practices and creative design solutions.',
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=300&fit=crop',
       technologies: ['HTML5', 'CSS3', 'JavaScript', 'GSAP'],
-      github: 'https://github.com/yourusername/project3',
-      demo: 'https://yourproject3.com'
+      github: 'https://github.com/energeticcreator-coder/porfolio',
+      demo: 'https://eugenemahaso.netlify.app/'
     }
   ];
 
