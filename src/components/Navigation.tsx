@@ -26,7 +26,7 @@ const Navigation = () => {
       <div className="max-w-6xl mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="text-xl font-bold text-gray-900">
-            Eugene Mahaso
+            Portfolio 
           </div>
           <div className="hidden md:flex space-x-8">
             {['Home', 'About', 'Skills', 'Projects', 'Contact'].map((item) => (
