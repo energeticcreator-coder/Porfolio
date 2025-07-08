@@ -16,8 +16,8 @@ const Projects = () => {
       description: 'A collaborative task management application with real-time updates and intuitive drag-and-drop functionality.',
       image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&h=300&fit=crop',
       technologies: ['React', 'JavaScript', 'CSS3', 'Firebase'],
-      github: 'https://github.com/yourusername/project2',
-      demo: 'https://yourproject2.com'
+      github: 'https://github.com/energeticcreator-coder/TaskFlow-',
+      demo: 'https://v0-task-management-application-drab.vercel.app/'
     },
     {
       title: 'Portfolio Website',
