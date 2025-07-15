@@ -1,5 +1,6 @@
 
 import { Github, Link } from 'lucide-react';
+import { CardDescription } from './ui/card';
 
 const Projects = () => {
   const projects = [
@@ -26,6 +27,14 @@ const Projects = () => {
       technologies: ['HTML5', 'CSS3', 'JavaScript', 'GSAP'],
       github: 'https://github.com/energeticcreator-coder/porfolio',
       demo: 'https://eugenemahaso.netlify.app/'
+    },
+    {
+      title: 'Delicious Discovery',
+      description: 'A responsive platform where all food lovers get to share different food recipies from all around the world. ',
+      image: '/workspaces/Porfolio/src/components/imgs/img1.jpg',
+      technologies:['TypeScript','Tailwind CSS','React','Node.js','Express.js','Supabase'],
+      github:'https://github.com/energeticcreator-coder/Recipe-Share',
+      demo:'https://deliciousdiscovery.netlify.app/'
     }
   ];
 
