@@ -31,7 +31,7 @@ const Projects = () => {
     {
       title: 'Delicious Discovery',
       description: 'A responsive platform where all food lovers get to share different food recipies from all around the world. ',
-      image: '/workspaces/Porfolio/src/components/imgs/img1.jpg',
+      image: 'https://cdn.vectorstock.com/i/1000v/34/37/chef-hat-and-moustache-sign-orange-icon-on-black-vector-13393437.jpg',
       technologies:['TypeScript','Tailwind CSS','React','Node.js','Express.js','Supabase'],
       github:'https://github.com/energeticcreator-coder/Recipe-Share',
       demo:'https://deliciousdiscovery.netlify.app/'
