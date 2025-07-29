@@ -64,14 +64,14 @@ const Hero = () => {
             >
               View My Work
             </button>
-            /*
+            
             <a 
               href="/resume.pdf" 
               className="px-8 py-3 border border-white/30 hover:border-white text-white rounded-full font-semibold transition-all duration-300 hover:bg-white/10"
             >
               Download Resume
             </a>
-            */
+            
           </div>
         </div>
       </div>
